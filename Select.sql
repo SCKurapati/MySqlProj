@@ -1,3 +1,3 @@
 Use Mydatabase
 
-select * from employee
+select top 10 * from employee where sal > 10000
