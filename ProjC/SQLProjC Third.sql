@@ -1,0 +1,3 @@
+select @@Server
+
+select @@Server
