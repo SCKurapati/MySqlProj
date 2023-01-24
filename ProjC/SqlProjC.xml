@@ -1,7 +1,9 @@
+<config>
 <sql>
 <username></username>
 <password></password>
 </sql>
 <dtsx>
-<targetPath></targetPath>
+<targetPath>C:\Users\SHREYAS\OneDrive\Documents\DTSX_SSIS</targetPath>
 </dtsx>
+</config>
