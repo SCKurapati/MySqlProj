@@ -4,6 +4,6 @@
 <password></password>
 </sql>
 <dtsx>
-<targetPath>C:\Users\SHREYAS\OneDrive\Documents\DTSX_SSIS</targetPath>
+<targetPath property='path'>C:\Users\SHREYAS\OneDrive\Documents\DTSX_SSIS</targetPath>
 </dtsx>
 </config>
