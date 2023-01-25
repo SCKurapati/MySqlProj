@@ -1,3 +1,0 @@
-select @@Server
-
-select @@Server
