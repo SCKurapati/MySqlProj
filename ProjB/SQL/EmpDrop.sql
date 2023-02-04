@@ -1,0 +1,5 @@
+Use CCDD;
+GO
+--Drop command
+DROP TABLE IF EXISTs EMPLOYEE;
+Go
