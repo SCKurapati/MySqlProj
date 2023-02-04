@@ -1,0 +1,9 @@
+USE CCDD
+GO
+
+DROP TABLE IF EXISTS [dbo].[EMPLOYEE], dbo.Loans
+GO
+CREATE TABLE dbo.Loans(LoanType Varchar(100))
+GO
+INSERT dbo.Loans VALUES ('HOME MORTGAGE'), ('HOME EQUITY')
+GO

@@ -1,0 +1,5 @@
+<!-- Variable names are standard. -->
+<config DTSXPath   = "C:\Users\SHREYAS\Downloads\SSISFiles" 
+		RDLPath    = "C:\Users\SHREYAS\Downloads\RDLFiles"
+		Servername = 'LAPTOP-DDPJVA3F\SCKURAPATI' DBname='CCDD'
+/>
